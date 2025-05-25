@@ -7,7 +7,7 @@ import Footer from "@/components/sections/footer";
 
 export const metadata = {
   title: "Vivek Kumar Agrahari - Sr. Software Engineer Portfolio",
-  description: "Sr. Software Engineer with 8+ years of experience in web development and professional web applications",
+  description: "Sr. Software Engineer with 10+ years of experience in web development and professional web applications",
 };
 
 export default function RootLayout({ children }) {
